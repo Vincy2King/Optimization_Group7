@@ -1,1 +1,1 @@
-### Group 12 Project of ADVANCED TOPICS IN OPTIMIZATION
+### Group 7: Convex Optimization of ADVANCED TOPICS IN OPTIMIZATION
